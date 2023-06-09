@@ -39,6 +39,7 @@ strings['fr'] = {
     'str15': "<div class='file-name'>table.html</div> Lecteur HTML",
     'str16': "À Propos",
     'str17': "Ceci est un jeu pour vous aider à apprendre les sélecteurs CSS. Entrez le bon sélecteur pour terminer chaque niveau. Une aide vous est fournie sur la droite.",
+    'win': '<strong>Félicitations !</strong><br>Vous êtes maintenant un pro des sélecteurs CSS !'
 }
 
 levels['fr'] = [

@@ -42,6 +42,7 @@ $(document).ready(function(){
     console.log("!");
     language = $(this).text();
     console.log(language);
+    $("#lang-select").text(language);
     translate();
     loadLevel();
   });
